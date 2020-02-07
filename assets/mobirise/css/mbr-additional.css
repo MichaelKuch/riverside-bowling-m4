@@ -88,7 +88,7 @@ body {
   border-radius: 0px;
 }
 .bg-primary {
-  background-color: #f9e2af !important;
+  background-color: #ffcd40 !important;
 }
 .bg-success {
   background-color: #98e38d !important;
@@ -105,22 +105,22 @@ body {
 .btn-primary,
 .btn-primary:active,
 .btn-primary.active {
-  background-color: #f9e2af !important;
-  border-color: #f9e2af !important;
-  color: #9d700c !important;
+  background-color: #ffcd40 !important;
+  border-color: #ffcd40 !important;
+  color: #402f00 !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus {
-  color: #9d700c !important;
-  background-color: #f4c868 !important;
-  border-color: #f4c868 !important;
+  color: #402f00 !important;
+  background-color: #f3b300 !important;
+  border-color: #f3b300 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
-  color: #9d700c !important;
-  background-color: #f4c868 !important;
-  border-color: #f4c868 !important;
+  color: #402f00 !important;
+  background-color: #f3b300 !important;
+  border-color: #f3b300 !important;
 }
 .btn-secondary,
 .btn-secondary:active,
@@ -269,21 +269,21 @@ body {
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   background: none;
-  border-color: #f2c050;
-  color: #f2c050;
+  border-color: #d9a000;
+  color: #d9a000;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus {
-  color: #9d700c;
-  background-color: #f9e2af;
-  border-color: #f9e2af;
+  color: #402f00;
+  background-color: #ffcd40;
+  border-color: #ffcd40;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
-  color: #9d700c !important;
-  background-color: #f9e2af !important;
-  border-color: #f9e2af !important;
+  color: #402f00 !important;
+  background-color: #ffcd40 !important;
+  border-color: #ffcd40 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active,
@@ -420,7 +420,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #f9e2af !important;
+  color: #ffcd40 !important;
 }
 .text-secondary {
   color: #f5aeb5 !important;
@@ -445,7 +445,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #f2c050 !important;
+  color: #d9a000 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -492,16 +492,16 @@ a.text-black:focus {
   box-shadow: none !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #f9e2af;
-  border-color: #f9e2af;
-  color: #b5810e;
+  background-color: #ffcd40;
+  border-color: #ffcd40;
+  color: #5a4200;
 }
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
 }
 a,
 a:hover {
-  color: #f9e2af;
+  color: #ffcd40;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -528,17 +528,17 @@ a:hover {
   display: none;
 }
 #scrollToTop a {
-  border: 2px solid #ffbc00;
+  border: 2px solid #333333;
 }
 #scrollToTop a i:before {
-  background: #ffbc00;
+  background: #333333;
 }
 #scrollToTop a i:after {
-  border-top: 2px solid #ffbc00;
-  border-right: 2px solid #ffbc00;
+  border-top: 2px solid #333333;
+  border-right: 2px solid #333333;
 }
 .mbr-arrow a i {
-  color: #ffbc00;
+  color: #333333;
 }
 .form-control {
   font-family: 'Cormorant Upright', serif;
@@ -548,7 +548,7 @@ a:hover {
   font-size: 2.08rem;
 }
 blockquote {
-  border-color: #f9e2af;
+  border-color: #ffcd40;
 }
 /* Forms */
 .mbr-form .btn {
@@ -556,7 +556,7 @@ blockquote {
 }
 .jq-selectbox li:hover,
 .jq-selectbox li.selected {
-  background-color: #f9e2af;
+  background-color: #ffcd40;
   color: #000000;
 }
 .jq-selectbox .jq-selectbox__trigger-arrow,
@@ -573,14 +573,14 @@ blockquote {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:hover:after,
 .jq-number__spin.plus:hover:after {
-  border-top-color: #f9e2af;
-  border-bottom-color: #f9e2af;
+  border-top-color: #ffcd40;
+  border-bottom-color: #ffcd40;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
   color: #000000 !important;
-  background-color: #f9e2af !important;
+  background-color: #ffcd40 !important;
   box-shadow: none !important;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
@@ -609,7 +609,7 @@ iframe.lazy-placeholder,
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='32' height='32' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' stroke='%23f9e2af' %3e%3cg fill='none' fill-rule='evenodd'%3e%3cg transform='translate(16 16)' stroke-width='2'%3e%3ccircle stroke-opacity='.5' cx='16' cy='16' r='16'/%3e%3cpath d='M32 16c0-9.94-8.06-16-16-16'%3e%3canimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='1s' repeatCount='indefinite'/%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='32' height='32' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' stroke='%23ffcd40' %3e%3cg fill='none' fill-rule='evenodd'%3e%3cg transform='translate(16 16)' stroke-width='2'%3e%3ccircle stroke-opacity='.5' cx='16' cy='16' r='16'/%3e%3cpath d='M32 16c0-9.94-8.06-16-16-16'%3e%3canimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='1s' repeatCount='indefinite'/%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/svg%3e");
 }
 section.lazy-placeholder:after {
   opacity: 0.5;
@@ -904,8 +904,9 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/bowling-424773-2000x1333.jpg");
 }
 .cid-rPHVnhbmED .mbr-overlay {
-  background: #444444;
-  background: linear-gradient(45deg, #444444, #ffffff);
+  background: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #000000);
+  background: radial-gradient(#ffffff, #000000);
 }
 .cid-rPHVnhbmED .mbr-section-title {
   letter-spacing: .5rem;
@@ -918,9 +919,13 @@ section.lazy-placeholder:after {
 .cid-rPHVnhbmED .mbr-section-btn {
   color: #ffffff;
 }
+.cid-rPHVnhbmED [class^="mbri-"],
+.cid-rPHVnhbmED [class*=" mbri-"] {
+  font-weight: bold;
+}
 .cid-rPImslztjn {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rPImslztjn .mbr-text {
