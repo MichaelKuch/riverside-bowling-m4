@@ -22,7 +22,7 @@
         "display7Font": "Cormorant Upright",
         "display7Size": "1.2",
         "display8Font": "Cormorant Upright",
-        "display8Size": "0.6",
+        "display8Size": 0.6,
         "display4Font": "Cormorant Upright",
         "display4Size": 1.2,
         "isRoundedButtons": false,
@@ -265,10 +265,10 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": true,
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false,
     "uniqCompNum": 41,
-    "versionPublish": "4.12.0"
+    "versionPublish": "4.12.3",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
