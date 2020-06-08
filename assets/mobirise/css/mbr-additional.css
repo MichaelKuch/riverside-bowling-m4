@@ -1020,9 +1020,9 @@ section.lazy-placeholder:after {
     padding-right: 0 !important;
   }
   .cid-rPI7hQPdrd .hours-column {
-    max-width: 50% !important;
+    max-width: 60% !important;
   }
-  .cid-rPI7hQPdrd .opening-hours {
+  .cid-rPI7hQPdrd .opening-hours-kitchen {
     padding-bottom: 48px !important;
   }
 }
@@ -2111,7 +2111,7 @@ section.lazy-placeholder:after {
 .cid-rQMinHVNAW {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/background51.jpg");
+  background-image: url("../../../assets/images/background53.jpg");
 }
 .cid-rQMinHVNAW .menu-item {
   padding: 0 1rem 1rem 1rem;
